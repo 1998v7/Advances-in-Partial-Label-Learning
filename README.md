@@ -9,6 +9,10 @@
 
 * [ICML 2022] Revisiting Consistency Regularization for Deep Partial Label Learning. [[Paper]](https://proceedings.mlr.press/v162/wu22l.html)
 * [ICML 2022] Partial Label Learning via Label Influence Function. [[Paper]](https://proceedings.mlr.press/v162/gong22c.html)
+* [IJCAI 2022] Ambiguity-Induced Contrastive Learning for Instance-Dependent Partial Label Learning. [[Paper]](https://www.ijcai.org/proceedings/2022/0502.pdf) [[Code]](https://github.com/AlphaXia/ABLE)
+* [IJCAI 2022] Exploring Binary Classifcation Hidden within Partial Label Learning [[Paper]](https://www.ijcai.org/proceedings/2022/0456.pdf)
+* [IJCAI 2022] Deep Graph Matching for Partial Label Learning [[Paper]](https://www.ijcai.org/proceedings/2022/0459.pdf)
+* [IJCAI 2022] Webly-Supervised Fine-Grained Recognition with Partial Label Learning [[Paper]](https://www.ijcai.org/proceedings/2022/0459.pdf)
 * [CVPR 2022] Multi-Label Classification With Partial Annotations Using Class-Aware Selective Loss. [[Paper]](https://arxiv.org/abs/2110.10955) [[Code]](https://github.com/alibaba-miil/partiallabelingcsl)
 * [AAAI 2022] Structured Semantic Transfer for Multi-Label Recognition with Partial Labels. [[Paper]](https://arxiv.org/abs/2112.10941) [[Code]](https://github.com/hcplab-sysu/hcp-mlr-pl)
 * [AAAI 2022] Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels. [[Paper]](https://arxiv.org/abs/2203.02172) [[Code]](https://github.com/hcplab-sysu/hcp-mlr-pl)
