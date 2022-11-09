@@ -20,6 +20,7 @@
 * [ICLR 2022] PiCO: Contrastive Label Disambiguation for Partial Label Learning. [[Paper]](https://openreview.net/pdf?id=EhYjZy6e1gJ) [[Code]](https://github.com/hbzju/pico)
 * [ICLR 2022] Exploiting Class Activation Value for Partial-Label Learning. [[Paper]](https://openreview.net/forum?id=qqdXHUGec9h)
 * [AISTATS 2022] Learning from Multiple Noisy Partial Labelers. [[Paper]](https://arxiv.org/pdf/2106.04530v2.pdf) [[Code]](https://github.com/batsresearch/nplm)
+* [KDD 2022] Partial-Label Learning with Semantic Label Representations. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539434)
 
 
 ### Papers & Code in 2021
