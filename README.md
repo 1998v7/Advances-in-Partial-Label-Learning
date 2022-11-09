@@ -1,6 +1,4 @@
 # Advances-in-Partial-Label-Learning
-
-    A curated list of most recent papers & codes in Partial Label Learning
     
 * If you have any problems or suggestions about this topic, please contact 1998v7@gmail.com.
 
