@@ -40,7 +40,7 @@
 * [IJCAI 2020] Learning From Multi-Dimensional Partial Labels [[Paper]](https://www.ijcai.org/Proceedings/2020/0407.pdf)
 * [IJCAI 2020] Partial Multi-Label Learning via Multi-Subspace Representation [[Paper]](https://www.ijcai.org/proceedings/2020/0362.pdf)
 * [ICML 2020] Progressive Identification of True Labels for Partial-Label Learning [[Paper]](https://arxiv.org/pdf/2002.08053v3.pdf) [[Code]](https://github.com/Lvcrezia77/PRODEN)
-* [AAAI 2020] General Partial Label Learning via Dual Bipartite Graph Autoencoderv [[Paper]](https://arxiv.org/pdf/2001.01290.pdf)
+* [AAAI 2020] General Partial Label Learning via Dual Bipartite Graph Autoencoder [[Paper]](https://arxiv.org/pdf/2001.01290.pdf)
 * [AAAI 2020][TPAMI] Partial Multi-label Learning with Noisy Label Identification [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6117)
 * [AAAI 2020] Partial Multi-Label Learning with Label Distribution [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6124)
 * [AAAI 2020] Multi-View Partial Multi-Label Learning with Graph-Based Disambiguation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5761)
