@@ -3,8 +3,9 @@
 #### Related repository
 * [Learning with noisy labels](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)
 * [Learning with Partial Labels/Complementary Labels](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
-    
-* If you have any problems or suggestions about this repository, please contact 1998v7@gmail.com.
+ 
+#### If you have any problems or suggestions about this repository, please contact 1998v7@gmail.com.
+
 
 ### Papers & Code in 2022
 -----
@@ -23,7 +24,8 @@
 * [ICLR 2022] Exploiting Class Activation Value for Partial-Label Learning. [[Paper]](https://openreview.net/forum?id=qqdXHUGec9h)
 * [AISTATS 2022] Learning from Multiple Noisy Partial Labelers. [[Paper]](https://arxiv.org/pdf/2106.04530v2.pdf) [[Code]](https://github.com/batsresearch/nplm)
 * [KDD 2022] Partial-Label Learning with Semantic Label Representations. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539434)
-
+* [TPAMI 2022] Adaptive graph guided disambiguation for partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b.pdf)
+* [TKDD 2022] Disambiguation enabled linear discriminant analysis for partial label dimensionality reduction. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TKDD'21b.pdf)
 
 ### Papers & Code in 2021
 -----
@@ -38,17 +40,20 @@
 
 ### Papers & Code in 2020
 -----
-* [NIPS 2020] Semi-Supervised Partial Label Learning via Confidence-Rated Margin Maximization [[Paper]](https://papers.nips.cc/paper/2020/file/4dea382d82666332fb564f2e711cbc71-Paper.pdf)
-* [NIPS 2020] Provably Consistent Partial-Label Learning [[Paper]](https://papers.nips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)
-* [IJCAI 2020] Learning From Multi-Dimensional Partial Labels [[Paper]](https://www.ijcai.org/Proceedings/2020/0407.pdf)
-* [IJCAI 2020] Partial Multi-Label Learning via Multi-Subspace Representation [[Paper]](https://www.ijcai.org/proceedings/2020/0362.pdf)
-* [ICML 2020] Progressive Identification of True Labels for Partial-Label Learning [[Paper]](https://arxiv.org/pdf/2002.08053v3.pdf) [[Code]](https://github.com/Lvcrezia77/PRODEN)
-* [AAAI 2020] General Partial Label Learning via Dual Bipartite Graph Autoencoder [[Paper]](https://arxiv.org/pdf/2001.01290.pdf)
-* [AAAI 2020][TPAMI] Partial Multi-label Learning with Noisy Label Identification [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6117)
-* [AAAI 2020] Partial Multi-Label Learning with Label Distribution [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6124)
-* [AAAI 2020] Multi-View Partial Multi-Label Learning with Graph-Based Disambiguation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5761)
-* [AAAI 2020] Partial Label Learning with Batch Label Correction [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6132)
-* [CVPR 2020] Interactive Multi-Label CNN Learning with Partial Labels [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)
+* [NIPS 2020] Semi-Supervised Partial Label Learning via Confidence-Rated Margin Maximization. [[Paper]](https://papers.nips.cc/paper/2020/file/4dea382d82666332fb564f2e711cbc71-Paper.pdf)
+* [NIPS 2020] Provably Consistent Partial-Label Learning. [[Paper]](https://papers.nips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)
+* [IJCAI 2020] Learning From Multi-Dimensional Partial Labels. [[Paper]](https://www.ijcai.org/Proceedings/2020/0407.pdf)
+* [IJCAI 2020] Partial Multi-Label Learning via Multi-Subspace Representation. [[Paper]](https://www.ijcai.org/proceedings/2020/0362.pdf)
+* [ICML 2020] Progressive Identification of True Labels for Partial-Label Learning. [[Paper]](https://arxiv.org/pdf/2002.08053v3.pdf) [[Code]](https://github.com/Lvcrezia77/PRODEN)
+* [AAAI 2020] General Partial Label Learning via Dual Bipartite Graph Autoencoder. [[Paper]](https://arxiv.org/pdf/2001.01290.pdf)
+* [AAAI 2020][TPAMI] Partial Multi-label Learning with Noisy Label Identification. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6117)
+* [AAAI 2020] Partial Multi-Label Learning with Label Distribution. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6124)
+* [AAAI 2020] Multi-View Partial Multi-Label Learning with Graph-Based Disambiguation. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5761)
+* [AAAI 2020] Partial Label Learning with Batch Label Correction. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6132)
+* [CVPR 2020] Interactive Multi-Label CNN Learning with Partial Labels. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)
 
 ### Papers & Code before 2020
 ----
+
+
+
