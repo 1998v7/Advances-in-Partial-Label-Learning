@@ -59,6 +59,9 @@
 
 ### Papers & Code before 2020
 ----
-
+* [AAAI 2019] Partial Label Learning with Self-Guided Retraining. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4233)
+* [AAAI 2019] Partial Label Learning via Label Enhancement. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4497)
+* [IJCAI 2019] Partial Label Learning with Unlabeled Data. [[Paper]](https://www.ijcai.org/Proceedings/2019/0521.pdf)
+* [IJCAI 2019] Partial Label Learning by Semantic Difference Maximization. [[Paper]](https://www.ijcai.org/proceedings/2019/0318.pdf)
 
 
