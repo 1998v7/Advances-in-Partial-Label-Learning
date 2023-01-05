@@ -40,7 +40,7 @@
 * [IJCAI 2021] Multi-level Generative Models for Partial Label Learning with Non-random Label Noise. [[Paper]](https://arxiv.org/pdf/2005.05407v1.pdf)
 * [IJCAI 2021] Partial Multi-Label Optimal Margin Distribution Machine. [[Paper]](https://www.ijcai.org/proceedings/2021/0303.pdf)
 * [ICML 2021] Leveraged Weighted Loss for Partial Label Learning. [[Paper]](https://arxiv.org/pdf/2106.05731v1.pdf) [[Code]](https://github.com/hongwei-wen/LW-loss-for-partial-label)
-* [AAAI 2022] Exploiting Unlabeled Data via Partial Label Assignment for Multi-Class Semi-Supervised Learning. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17310)
+* [AAAI 2021] Exploiting Unlabeled Data via Partial Label Assignment for Multi-Class Semi-Supervised Learning. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17310)
 * [ICLR 2021] Towards Impartial Multi-task Learning. [[Paper]](https://openreview.net/forum?id=IMPnRXEWpvr) [[Code]](https://github.com/avivnavon/nash-mtl)
 
 ### Papers & Code in 2020
