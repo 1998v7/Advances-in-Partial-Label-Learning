@@ -19,6 +19,9 @@
 * [ICLR 2023] Mutual Partial Label Learning with Competitive Label Noise. [[Paper]](https://openreview.net/forum?id=EUrxG8IBCrC)
 * [ICLR 2023] Long-Tailed Partial Label Learning via Dynamic Rebalancing. [[Paper]](https://openreview.net/forum?id=sXfWoK4KvSW)
 * [ICLR 2023] Decompositional Generation Process for Instance-Dependent Partial Label Learning. [[Paper]](https://openreview.net/forum?id=lKOfilXucGB)
+* [AAAI 2023] Can Label-Specific Features Help Partial-Label Learning?. [[Paper]](http://palm.seu.edu.cn/zhangml/files/AAAI'23a.pdf)
+* [AAAI 2023] Partial-Label Regression. [[Paper]](https://personal.ntu.edu.sg/boan/papers/AAAI23-PLR.pdf)
+* [AAAI 2023] Learning with Partial Labels from Semi-supervised Perspective. [[Paper]](https://arxiv.org/abs/2211.13655)
 
 
 
