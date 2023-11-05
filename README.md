@@ -17,7 +17,7 @@
 -----
 * [ICCV 2023] Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels. [[Paper]](https://arxiv.org/pdf/2304.10539.pdf)
 * [ICCV 2023] Candidate-aware Selective Disambiguation Based On Normalized Entropy for Instance-dependent Partial-label Learning. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Candidate-aware_Selective_Disambiguation_Based_On_Normalized_Entropy_for_Instance-dependent_Partial-label_ICCV_2023_paper.pdf)
-* [CVPR 2023] Towards Effective Visual Representations for Partial-Label Learning. [[Paper]](Towards Effective Visual Representations for Partial-Label Learning)
+* [CVPR 2023] Towards Effective Visual Representations for Partial-Label Learning. [[Paper]](https://arxiv.org/abs/2305.06080)
 * [CVPR 2023] Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification. [[Paper]](https://arxiv.org/abs/2304.01804)
 * [ICML 2023] Revisiting Pseudo-Label for Single-Positive Multi-Label Learning. [[Paper]](https://proceedings.mlr.press/v202/liu23ar/liu23ar.pdf)
 * [IJCAI 2023] Deep Partial Multi-Label Learning with Graph Disambiguation. [[Paper]](https://www.ijcai.org/proceedings/2023/0479.pdf)
