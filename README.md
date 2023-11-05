@@ -15,6 +15,8 @@
 
 ### Papers & Code in 2023
 -----
+* [IJCAI 2023] Deep Partial Multi-Label Learning with Graph Disambiguation. [[Paper]](https://www.ijcai.org/proceedings/2023/0479.pdf)
+* [IJCAI 2023] Unreliable Partial Label Learning with Recursive Separation. [[Paper]](https://arxiv.org/abs/2302.09891)
 * [ICLR 2023] Partial Label Unsupervised Domain Adaptation with Class-Prototype Alignment. [[Paper]](https://openreview.net/forum?id=jpq0qHggw3t)
 * [ICLR 2023] Mutual Partial Label Learning with Competitive Label Noise. [[Paper]](https://openreview.net/forum?id=EUrxG8IBCrC)
 * [ICLR 2023] Long-Tailed Partial Label Learning via Dynamic Rebalancing. [[Paper]](https://openreview.net/forum?id=sXfWoK4KvSW)
