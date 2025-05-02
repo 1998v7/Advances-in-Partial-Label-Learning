@@ -2,6 +2,8 @@
 
     A list of awesome partial-label learning papers and codes.
 
+> **This repository will not be updated since Dec 2023.**
+
 #### Related repository
 * [Learning with noisy labels](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)
 * [Learning with Partial Labels/Complementary Labels](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
